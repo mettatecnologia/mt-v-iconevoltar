@@ -1,1 +1,1 @@
-Vue.component('jb-v-iconevoltar', require('./JbIconeVoltar.vue').default);
+Vue.component('jb-iconevoltar', require('./JbIconeVoltar.vue').default);
