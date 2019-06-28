@@ -1,6 +1,6 @@
 {
-  "name": "jb-v-iconevoltar",
-  "version": "1.0.0",
+  "name": "@metta/mt-v-iconevoltar",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -8,13 +8,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jbmchd/jb-v-iconevoltar.git"
+    "url": "git+https://github.com/mettatecnologia/mt-v-iconevoltar.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jbmchd/jb-v-iconevoltar/issues"
+    "url": "https://github.com/mettatecnologia/mt-v-iconevoltar/issues"
   },
-  "homepage": "https://github.com/jbmchd/jb-v-iconevoltar#readme"
+  "homepage": "https://github.com/mettatecnologia/mt-v-iconevoltar#readme"
 }
